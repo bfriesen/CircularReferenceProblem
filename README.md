@@ -1,0 +1,1 @@
+As seen on my blog: [randomskunk.com](http://www.randomskunk.com/2013/05/circular-references-between-class-libraries.html)
